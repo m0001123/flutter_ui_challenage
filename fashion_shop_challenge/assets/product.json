@@ -1,0 +1,102 @@
+[
+    {
+        "id": "p000",
+        "name": "p000  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p0/p0-0.jpg",
+            "assets/products/p0/p0-1.jpg",
+            "assets/products/p0/p0-2.jpg"
+        ]
+    },
+    {
+        "id": "p001",
+        "name": "p001  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p1/p1-0.jpg",
+            "assets/products/p1/p1-1.jpg",
+            "assets/products/p1/p1-2.jpg"
+        ]
+    },
+    {
+        "id": "p002",
+        "name": "p002  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p2/p2-0.jpg",
+            "assets/products/p2/p2-1.jpg",
+            "assets/products/p2/p2-2.jpg"
+        ]
+    },
+    {
+        "id": "p003",
+        "name": "p003  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p3/p3-0.jpg",
+            "assets/products/p3/p3-1.jpg",
+            "assets/products/p3/p3-2.jpg"
+        ]
+    },
+    {
+        "id": "p004",
+        "name": "p004  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p4/p4-0.jpg",
+            "assets/products/p4/p4-1.jpg",
+            "assets/products/p4/p4-2.jpg"
+        ]
+    },
+    {
+        "id": "p005",
+        "name": "p005  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p5/p5-0.jpg",
+            "assets/products/p5/p5-1.jpg",
+            "assets/products/p5/p5-2.jpg"
+        ]
+    },
+    {
+        "id": "p006",
+        "name": "p006  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p6/p6-0.jpg",
+            "assets/products/p6/p6-1.jpg",
+            "assets/products/p6/p6-2.jpg"
+        ]
+    },
+    {
+        "id": "p007",
+        "name": "p007  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p7/p7-0.jpg",
+            "assets/products/p7/p7-1.jpg",
+            "assets/products/p7/p7-2.jpg"
+        ]
+    },
+    {
+        "id": "p008",
+        "name": "p008  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p8/p8-0.jpg",
+            "assets/products/p8/p8-1.jpg",
+            "assets/products/p8/p8-2.jpg"
+        ]
+    },
+    {
+        "id": "p009",
+        "name": "p009  冬天後外套",
+        "price": 1299,
+        "imglist": [
+            "assets/products/p9/p9-0.jpg",
+            "assets/products/p9/p9-1.jpg",
+            "assets/products/p9/p9-2.jpg"
+        ]
+    }
+]
