@@ -1,16 +1,30 @@
-# todo_app_challenage
+# 小專案 - To Do Challenge
 
-A new Flutter project.
+代辦事項 App，展示如何使用 Flutter 實現功能完善的 UI 和互動設計。本專案著重於自定義 Widget 的應用，並結合豐富的動畫效果，提供滑動隱藏按鈕的功能，提升用戶操作體驗。
 
-## Getting Started
+## 專案功能
 
-This project is a starting point for a Flutter application.
+- **自定義 Widget**：創建多個高度模組化的 UI 元件，便於維護與重用。
+- **滑動隱藏按鈕**：使用滑動手勢觸發的自定義按鈕，實現清單項目管理。
+- **豐富的動畫效果**：動畫在代辦事項的新增、完成、刪除等操作中，提升流暢度與視覺效果。
 
-A few resources to get you started if this is your first Flutter project:
+## 專案展示
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 主畫面：
+展示代辦清單的整體佈局和基本操作。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="./screenshot/page1.png" width="250" alt="主畫面示範"></td>
+    <td><img src="./screenshot/page2.png" width="250" alt="滑動功能示範"></td>
+  </tr>
+</table>
+
+### 滑動功能：
+演示滑動手勢觸發隱藏按鈕的操作。
+
+<img src="./screenshot/todo.gif" width="250" alt="滑動功能">
+
+
+
+
