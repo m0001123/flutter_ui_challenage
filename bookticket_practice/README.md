@@ -1,16 +1,29 @@
-# bookticket
+# 小專案 - Book Ticket Practice
 
-A new Flutter project.
+練習複雜版面構建的小專案，展示如何利用 Flutter 的自定義 Widget 和動畫功能。
 
-## Getting Started
+## 專案功能
 
-This project is a starting point for a Flutter application.
+- **動畫展示**：使用 Flutter 動畫實現流暢的交互效果。
+- **票務畫面設計**：練習實現模擬票務預訂相關的畫面佈局。
 
-A few resources to get you started if this is your first Flutter project:
+## 專案展示
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 畫面展示：
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="./screenshot/page1.png" width="250" alt="畫面示範"></td>
+    <td><img src="./screenshot/page2.png" width="250" alt="畫面示範"></td>
+  </tr>
+   <tr>
+    <td><img src="./screenshot/page3.png" width="250" alt="畫面示範"></td>
+  </tr>
+</table>
+
+### 動畫效果：
+
+<img src="./screenshot/bookticket.gif" width="250" alt="動畫效果">
+
+
+
